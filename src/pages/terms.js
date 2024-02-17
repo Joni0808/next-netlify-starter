@@ -47,7 +47,7 @@ export default function Commands() {
               <ul>
                 <li>
                   <kbd><strong>Introduction</strong></kbd> -{" "}
-                  <span className="p-color">This document outlines the Terms of Service (TOS) that govern the use of BuiltByBit products. <br></br>By accessing, purchasing, or using any BuiltByBit products, you agree to be bound by these terms.
+                  <span className="p-color">This document outlines the Terms of Service (TOS) from the InvBot. <br></br>By purchasing/using the Invoice Bot from us, you agree to be bound by these terms.
                   If you do not agree with any part of these terms, you must not use our products.</span>
                 </li>
               </ul>
@@ -86,11 +86,11 @@ export default function Commands() {
               <ul>
                 <li>
                   <kbd><strong>Prohibition of Unauthorized Distribution</strong></kbd> -{" "}
-                  <span className="p-color">Unauthorized leakage, distribution, or resale of any BuiltByBit product code, including snippets, is strictly prohibited and will lead to legal action to protect our intellectual property.</span>
+                  <span className="p-color">Unauthorized leakage, distribution, or resale of the Invoice Bots code, including snippets, is strictly prohibited and will lead to legal action to protect our intellectual property.</span>
                 </li>
                 <li>
                   <kbd><strong>Resale of Products</strong></kbd> -{" "}
-                  <span className="p-color">Reselling BuiltByBit products without explicit resell-rights is forbidden. Obtaining the resell-rights is possible in a Support Ticket in our Discord Server.</span>
+                  <span className="p-color">Reselling our InvBot without explicit resell-rights is forbidden. Obtaining the resell-rights is possible in a Support Ticket in our Discord Server.</span>
                 </li>
               </ul>
             </div>
